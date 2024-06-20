@@ -1,8 +1,7 @@
 # React + Vite
 
-<span style="color:#1E90FF">This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.</span>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## <span style="color:#4CAF50">Skills and Technologies</span>
 
 Currently, two official plugins are available:
 
